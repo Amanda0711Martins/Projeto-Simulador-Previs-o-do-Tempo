@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+.container {
+    margin: 0 auto;
+    width: 80%;
+    padding: 20px;
+}
+
+/* Estilos para diferentes condições climáticas */
+.sol {
+    background-image: url('sol.png');
+    /* Adicione sua imagem de fundo para dias ensolarados */
+}
+
+.chuva {
+    background-image: url('chuva.png');
+    /* Adicione sua imagem de fundo para dias chuvosos */
+}
