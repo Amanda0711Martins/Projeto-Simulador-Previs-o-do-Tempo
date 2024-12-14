@@ -1,0 +1,31 @@
+.container {
+    text-align: center;
+    margin: 20px;
+}
+
+/* Estilos para cada condição climática */
+.ensolarado {
+    font-size: 20px;
+    background-color: #FFE900;
+    color: black;
+}
+
+.chuvoso {
+    font-size: 20px;
+    background-color: #A3A3C0;
+    color: #fff;
+}
+
+/* Estilos para o container da previsão */
+.previsao {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+/* Estilos para o ícone */
+.previsao img {
+    width: 100px;
+    height: 100px;
+}

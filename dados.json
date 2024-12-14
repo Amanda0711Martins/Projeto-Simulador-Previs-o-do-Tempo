@@ -1,0 +1,99 @@
+[
+    {
+        "cidade": "São Paulo",
+        "temperatura": 25,
+        "condicao": "Ensolarado",
+        "cor": "#ffff00"
+    },
+    {
+        "cidade": "Rio de Janeiro",
+        "temperatura": 28,
+        "condicao": "Chuvoso",
+        "cor": "#007bff" 
+    },
+    {
+        "cidade": "Belo Horizonte",
+        "temperatura": 21,
+        "condicao": "Chuvoso",
+        "cor": "#007bff" 
+    },
+    {
+        "cidade": "Goiânia",
+        "temperatura": 38,
+        "condicao": "Ensolarado",
+        "cor": "#ffff00" 
+    },
+    {
+        "cidade": "Brasília",
+        "temperatura": 35,
+        "condicao": "Ensolarado",
+        "cor": "#ffff00" 
+    },
+    {
+        "cidade": "Goiânia",
+        "temperatura": 38,
+        "condicao": "Ensolarado",
+        "cor": "#ffff00" 
+    },
+    {
+        "cidade": "Curitiba",
+        "temperatura": 18,
+        "condicao": "Chuvoso",
+        "cor": "#007bff"  
+    },
+    {
+        "cidade": "Florianópolis",
+        "temperatura": 12,
+        "condicao": "Chuvoso",
+        "cor": "#007bff"  
+    },
+    {
+        "cidade": "Rio Branco",
+        "temperatura": 32,
+        "condicao": "Ensolarado",
+        "cor": "#ffff00" 
+    },
+    {
+        "cidade": "Maceió",
+        "temperatura": 27,
+        "condicao": "Ensolarado",
+        "cor": "#ffff00" 
+    },
+    {
+        "cidade": "Macapá",
+        "temperatura": 33,
+        "condicao": "Ensolarado",
+        "cor": "#ffff00" 
+    },
+    {
+        "cidade": "Manaus",
+        "temperatura": 26,
+        "condicao": "Chuvoso",
+        "cor": "#007bff" 
+    },
+    {
+        "cidade": "Salvador",
+        "temperatura": 34,
+        "condicao": "Ensolarado",
+        "cor": "#ffff00" 
+    },
+    {
+        "cidade": "Vitória",
+        "temperatura": 22,
+        "condicao": "Chuvoso",
+        "cor": "#007bff" 
+    },
+    {
+        "cidade": "São Luís",
+        "temperatura": 31,
+        "condicao": "Ensolarado",
+        "cor": "#ffff00" 
+    },
+    {
+        "cidade": "Campo Grande",
+        "temperatura": 36,
+        "condicao": "Ensolarado",
+        "cor": "#ffff00" 
+    }
+
+]
